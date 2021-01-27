@@ -1,0 +1,12 @@
+luthada
+luthada@gmail.com
+Yeahyeah@12
+Yeahyeah@12
+
+Important tip to remember in django:
+
+https://stackoverflow.com/questions/12784835/django-no-such-table/47408979
+
+python manage.py makemigrations
+
+python manage.py migrate --run-syncdb
